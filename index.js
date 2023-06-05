@@ -1,4 +1,4 @@
 //// uyga vazifa
-function fn() {
+function fn(arr) {
   
 }
