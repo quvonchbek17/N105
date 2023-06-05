@@ -1,1 +1,4 @@
 //// uyga vazifa
+function fn() {
+  
+}
