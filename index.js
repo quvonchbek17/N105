@@ -1,1 +1,2 @@
 //// uyga vazifa
+//nimadir
