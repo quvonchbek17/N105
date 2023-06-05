@@ -1,2 +1,2 @@
 //// uyga vazifa
-// islombek
+// islombekfddfdf
