@@ -1,0 +1,1 @@
+console.log('NodeJs has started');
